@@ -7,11 +7,6 @@ This repository contains the implementation of a Customer Churn Prediction model
 - [Dataset](#dataset)
 - [Project Workflow](#project-workflow)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Key Insights](#key-insights)
-- [Results](#results)
-- [License](#license)
-
 ---
 
 ## Introduction
