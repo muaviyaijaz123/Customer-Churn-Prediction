@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This repository contains the implementation of a Customer Churn Prediction model for a bank, conducted as part of the [Condor Student Challenge](#). The project predicts whether a customer will close their bank account (`Exited`) based on various customer attributes.
+This repository contains the implementation of a Customer Churn Prediction model for a bank. The project predicts whether a customer will close their bank account (`Exited`) based on various customer attributes.
 
 ## Table of Contents
 - [Introduction](#introduction)
